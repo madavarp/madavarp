@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Pavan Kumar Madavaram</h1>
 
 <h3 align="center">
-Full-Stack Software Engineer | AI Systems | Cloud Platforms
+Software Engineer | Backend Systems | Distributed Systems | Cloud & AI Platforms
 </h3>
 
 <p align="center">
-Building scalable software, intelligent systems, and modern web platforms.
+Building scalable backend systems, cloud-native platforms, and AI-enabled applications.
 </p>
 
 ---
@@ -25,145 +25,91 @@ pavankumarm1707@gmail.com
 
 # 🧠 About Me
 
-- Full-Stack Software Engineer with **5+ years experience**
-- Building **AI-enabled applications, APIs, and cloud systems**
+- Software Engineer with **5+ years of experience**
+- Building **backend systems, REST APIs, cloud platforms, and AI-enabled applications**
 - Currently contributing to **REP4FinLit at Grand Valley State University**
-- Experienced across **Frontend, Backend, Cloud, and AI integrations**
+- Experienced across **system design, backend development, cloud infrastructure, and full-stack engineering**
 
-I enjoy building systems that combine **product thinking + engineering depth**.
+I enjoy building software that combines **engineering depth, scalability, and practical product impact**.
 
 ---
 
 # 🛠 Tech Stack
 
 ### Languages
-
-![JavaScript](https://skillicons.dev/icons?i=js)
-![TypeScript](https://skillicons.dev/icons?i=ts)
-![Python](https://skillicons.dev/icons?i=python)
-![CSharp](https://skillicons.dev/icons?i=cs)
-![HTML](https://skillicons.dev/icons?i=html)
-![CSS](https://skillicons.dev/icons?i=css)
-![SQL](https://skillicons.dev/icons?i=mysql)
-
----
-
-### Frontend
-
-![React](https://skillicons.dev/icons?i=react)
-![JavaScript](https://skillicons.dev/icons?i=js)
-![CSS](https://skillicons.dev/icons?i=css)
-![HTML](https://skillicons.dev/icons?i=html)
-
----
+JavaScript • TypeScript • Python • C# • SQL • Java • C++
 
 ### Backend
+Node.js • ASP.NET Core • REST APIs • Microservices • Backend Systems
 
-![NodeJS](https://skillicons.dev/icons?i=nodejs)
-![DotNet](https://skillicons.dev/icons?i=dotnet)
-
-REST APIs • Microservices • Backend Systems
-
----
+### Frontend
+React • React Native • HTML • CSS • JavaScript
 
 ### Cloud & DevOps
+AWS • Azure • Docker • Terraform • GitHub Actions • CI/CD
 
-![AWS](https://skillicons.dev/icons?i=aws)
-![Azure](https://skillicons.dev/icons?i=azure)
-![Docker](https://skillicons.dev/icons?i=docker)
-![Terraform](https://skillicons.dev/icons?i=terraform)
-![GitHub](https://skillicons.dev/icons?i=github)
-
-CI/CD • Cloud Deployments • Infrastructure
-
----
+### Databases
+PostgreSQL • SQL Server • MySQL • Data Modeling • Query Optimization
 
 ### AI / Intelligent Systems
-
-- LangChain
-- LangGraph
-- LLM Applications
-- AI Assistants
-- Retrieval Augmented Generation (RAG)
-
----
+LangChain • LangGraph • LLM Applications • AI Assistants • RAG
 
 # 📌 Featured Projects
 
 ## REP4FinLit Platform
-Full-stack financial literacy platform developed at **Grand Valley State University**  
-Sponsored by **Fifth Third Bank**
+Financial education platform developed at **Grand Valley State University** and supported by **Fifth Third Bank**.
 
-Features:
+Highlights:
 - Scalable backend APIs
-- AI-powered features
-- Cloud infrastructure
-- Interactive learning workflows
+- Cloud infrastructure across AWS and Azure
+- AI-powered assistant integration
+- Interactive learning workflows for university deployments
 
 ---
 
-## AI Chatbot Integration
+## QuickAid – Volunteer Matching Platform
+Backend-focused system prototype that matches nearby volunteers with urgent community help requests in real time.
 
-AI-powered chatbot integrated into financial learning platform.
-
-Technologies:
-
-- LangChain
-- JavaScript
-- Cloud services
-- Frontend UI integration
+Highlights:
+- Location-aware matching
+- Real-time request assignment
+- Distributed system design thinking
+- Node.js, PostgreSQL, Redis, WebSockets
 
 ---
 
-## Adventure Personality Quiz
+## REP4FinLit AI Assistant
+AI-powered backend assistant designed to support financial literacy workflows through platform-integrated question answering.
 
-Interactive quiz application with dynamic question flows and scoring logic.
-
-Technologies:
-
-- JavaScript
-- HTML
-- CSS
-- UI/UX design
+Highlights:
+- AI-driven financial guidance
+- Backend API architecture
+- Modular service design
+- Cloud-ready integration pattern
 
 ---
 
 ## Online Bidding Platform
-
-Full-stack auction system supporting real-time bid tracking.
+Full-stack auction system supporting secure role-based bidding and real-time updates.
 
 Technologies:
+ASP.NET • C# • SQL Server • JavaScript
 
-- ASP.NET
-- C#
-- SQL Server
-- JavaScript
-- Bootstrap
+---
+
+## Adventure Personality Quiz
+Interactive quiz application with dynamic scoring logic and user-focused frontend design.
+
+Technologies:
+JavaScript • HTML • CSS
 
 ---
 
 ## HandCrafted Haven
-
 Full-stack e-commerce platform for handcrafted products.
 
 Technologies:
-
-- HTML
-- CSS
-- JavaScript
-- Firebase
-
----
-
-## 3+ Hours Food App
-
-React Native mobile application designed to redistribute surplus food.
-
-Technologies:
-
-- React Native
-- Mobile UI
-- API integrations
+HTML • CSS • JavaScript • Firebase
 
 ---
 
@@ -171,17 +117,17 @@ Technologies:
 
 Currently exploring deeper work in:
 
-- AI-powered software systems
-- scalable cloud architectures
 - backend engineering
-- developer tooling
-- intelligent applications
+- distributed systems
+- scalable cloud architectures
+- AI-enabled applications
+- developer tooling and platform design
 
 ---
 
-# 🤝 Let's Connect
+# 🤝 Let’s Connect
 
-If you're working on **AI systems, scalable platforms, or interesting engineering problems**, I would love to connect.
+If you are working on **backend systems, cloud platforms, AI-enabled products, or interesting engineering problems**, I would love to connect.
 
 💼 LinkedIn  
 https://linkedin.com/in/pavankumarmadavaram
