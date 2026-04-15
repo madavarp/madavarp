@@ -93,6 +93,9 @@ Highlights:
 ---
 
 ## Online Bidding Platform
+
+https://online-bidding-sys.netlify.app/
+
 Full-stack auction system supporting secure role-based bidding and real-time updates.
 
 Technologies:
@@ -101,6 +104,9 @@ ASP.NET • C# • SQL Server • JavaScript
 ---
 
 ## Adventure Personality Quiz
+
+https://adventure-quiz.netlify.app/
+
 Interactive quiz application with dynamic scoring logic and user-focused frontend design.
 
 Technologies:
@@ -109,6 +115,9 @@ JavaScript • HTML • CSS
 ---
 
 ## HandCrafted Haven
+
+
+
 Full-stack e-commerce platform for handcrafted products.
 
 Technologies:
