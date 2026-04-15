@@ -68,6 +68,7 @@ Highlights:
 ---
 
 ## QuickAid – Volunteer Matching Platform
+https://quick-aid-volunteer.netlify.app/
 Backend-focused system prototype that matches nearby volunteers with urgent community help requests in real time.
 
 Highlights:
