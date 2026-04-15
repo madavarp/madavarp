@@ -167,18 +167,6 @@ Technologies:
 
 ---
 
-# 📊 GitHub Stats
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=madavarp&show_icons=true&theme=tokyonight" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=madavarp&layout=compact&theme=tokyonight" />
-
-</p>
-
----
-
 # 📈 Current Focus
 
 Currently exploring deeper work in:
