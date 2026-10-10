@@ -4,4 +4,4 @@ Building modern applications with React, Python, REST APIs, cloud platforms, and
 
 I bring years of hands-on software engineering experience across frontend, backend, databases, and DevOps, while currently leading a team of 9 engineers and coordinating development across a larger cross-functional team.
 
-🚀 [Explore My Interactive Portfolio](https://www.pavankumarmadavaram.com/)
+🚀 [Explore My Interactive Portfolio](https://[www.pavankumarmadavaram.com](https://pavankumarmadavaram.netlify.app/)/)
